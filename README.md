@@ -1,0 +1,2 @@
+# btcpooluserapi
+userapi for btcpool 
