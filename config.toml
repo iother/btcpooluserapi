@@ -1,0 +1,10 @@
+[db]
+    addr     = "192.168.1.201:3306"
+    user     = "root"
+    password = "123456"
+    database = "mutipool"
+
+[coin]
+    id        = 999
+    name      = "ltc"
+    limit     = 2000
